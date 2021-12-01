@@ -3,7 +3,7 @@
 Roblox Groups Finder!
 Fast & Easy to use
 
-How to use :
+Command :
 >```python
 >python main.py
 >```
