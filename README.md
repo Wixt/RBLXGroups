@@ -4,4 +4,6 @@
 >python main.py
 >```
 
-- [X] a
+- [X] Using Python
+- [X] HTTP(S) Proxy
+- [X] Fast
