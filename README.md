@@ -1,7 +1,7 @@
 # RBLXGroups
 
 Roblox Groups Finder!
-Fast & Easy to use
+Fast & Simple & Easy to use
 
 Command :
 >```python
