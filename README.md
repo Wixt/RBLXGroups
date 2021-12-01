@@ -10,5 +10,5 @@ Command :
 
 Info :
 - [X] Using Python
-- [X] HTTP(S) Proxy!
+- [X] HTTP(S) Proxy List!
 - [X] Discord Webhook
