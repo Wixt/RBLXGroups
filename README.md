@@ -5,5 +5,5 @@
 >```
 
 - [X] Using Python
-- [X] HTTP(S) Proxy
-- [X] Fast
+- [X] HTTP(S) Proxy!
+- [X] Discord Webhook
